@@ -1,4 +1,4 @@
-![alt README header](/carta presentacion.png)
+![alt README header](carta presentacion.png)
 
 ## Hi there 👋
 
