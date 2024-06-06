@@ -1,4 +1,9 @@
+<div style="display:flex; justify-content:center;" >
+
 ![alt README header](/carta%20presentacion.png)
+
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block; border-bottom:0px;">Full stack - Software Developer</h1></summary>
@@ -86,8 +91,12 @@
 
 <div align="center">
 
-### 🐍 nbsp; 
+### 🐍 nbsp;-m "commit more and push less"
   <a href="https://github.com/beelzedevs">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
+</div>
+
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
