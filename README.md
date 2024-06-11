@@ -51,7 +51,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 
-### ⚙️ &nbsp;Tools: &nbsp;ORM &nbsp;Formatters &nbsp;Others
+### ⚙️ &nbsp;Tools: &nbsp;ORM &nbsp;Formatters &nbsp;Extensions &nbsp;Others
 ![Env](https://img.shields.io/badge/Dotenv-black?style=for-the-badge&logo=dotenv&logoColor=ECD53F)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
@@ -63,7 +63,6 @@
 
 ### ☁ &nbsp;Cloud
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
 
@@ -91,7 +90,7 @@
 
 <div align="center">
 
-### 🐍 nbsp;-m "commit more and push less"
+### 🐍 nbsp; -m "commit more and push less"
   <a href="https://github.com/beelzedevs">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
