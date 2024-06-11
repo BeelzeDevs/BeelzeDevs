@@ -93,7 +93,7 @@
 ### 🐍 &nbsp;Philosophy
 
   <p align="left">I believe in making frequent, small commits to keep track of my progress and maintain a clear history of changes. My motto is:</p>
-  <p align="left">-m "Commit Often, Push with Purpose"</p>
+  <p align="center">-m "Commit Often, Push with Purpose"</p>
   <p align="left">This encourages detailed and thoughtful commits, making it easier to understand the development process and identify any issues. I push meaningful updates that are well-tested and ready for     
 collaboration.</p>
   <div align="center">
