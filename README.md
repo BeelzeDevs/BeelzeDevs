@@ -90,7 +90,7 @@
 
 <div align="center">
 
-### 🐍 nbsp; -m "commit more and push less"
+### 🐍 &nbsp;-m "commit more and push less"
   <a href="https://github.com/beelzedevs">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
