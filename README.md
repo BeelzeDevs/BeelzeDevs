@@ -88,17 +88,21 @@
 <!--- stats (end) -->
 </div>
 
-<div align="center">
+<div align="left">
 
 ### 🐍 &nbsp;Philosophy
-<p align="left">I believe in making frequent, small commits to keep track of my progress and maintain a clear history of changes. My motto is:</p>
-<p align="left">-m "Commit Often, Push with Purpose"</p>
-<p align="left">This encourages detailed and thoughtful commits, making it easier to understand the development process and identify any issues. I push meaningful updates that are well-tested and ready for collaboration.</p>
 
-  <a href="https://github.com/beelzedevs">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <p align="left">I believe in making frequent, small commits to keep track of my progress and maintain a clear history of changes. My motto is:</p>
+  <p align="left">-m "Commit Often, Push with Purpose"</p>
+  <p align="left">This encourages detailed and thoughtful commits, making it easier to understand the development process and identify any issues. I push meaningful updates that are well-tested and ready for     
+collaboration.</p>
+  <div align="center">
+   <a href="https://github.com/beelzedevs">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+         alt="snake" /></a>
+  </div>
 </div>
+ 
 
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
